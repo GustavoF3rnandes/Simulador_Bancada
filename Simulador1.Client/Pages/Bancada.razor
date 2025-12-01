@@ -1,0 +1,30 @@
+﻿@page "/bancada"
+@namespace Simulador1.Pages
+
+<div class="bancada-container">
+    <div class="bancada-alca-wrapper">
+        <svg class="bancada-alca-svg" viewBox="0 0 200 50" preserveAspectRatio="xMidYMax meet">
+            <defs>
+                <linearGradient id="alcaGradienteRealista" x1="0%" y1="0%" x2="0%" y2="100%">
+                    <stop offset="0%" stop-color="#4B4B4B" /> <stop offset="15%" stop-color="#2F2F2F" /> <stop offset="85%" stop-color="#212121" /> <stop offset="100%" stop-color="#1A1A1A" />
+                </linearGradient>
+            </defs>
+            <path d="M2,50 V18 C2,8 10,2 20,2 H180 C190,2 198,8 198,18 V50 H185 V20 C185,15 180,12 175,12 H25 C20,12 15,15 15,20 V50 Z M30,38 C30,34 35,32 40,32 H160 C165,32 170,34 170,38 Q170,42 100,42 Q30,42 30,38 Z"
+                  fill-rule="evenodd"
+                  fill="url(#alcaGradienteRealista)"
+                  stroke="#0A0A0A"
+                  stroke-width="1" />
+        </svg>
+    </div>
+
+    <div class="bancada-moldura">
+        <div class="bancada-painel">
+            @ChildContent
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+}

@@ -1,0 +1,35 @@
+.led-container[b-3g7qmsw0i9] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.led[b-3g7qmsw0i9] {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, #0a3, #030);
+    box-shadow: inset -2px -2px 6px rgba(0,0,0,0.6);
+    margin-bottom: 6px;
+    transition: all 0.3s ease;
+    border: 2px solid #222;
+}
+
+    .led.aceso[b-3g7qmsw0i9] {
+        background: radial-gradient(circle at 30% 30%, #4fdf4f, #0a0);
+        box-shadow: 0 0 6px #4fdf4f, 0 0 12px #4fdf4f, inset -2px -2px 6px rgba(0,0,0,0.4);
+    }
+
+    .led.apagado[b-3g7qmsw0i9] {
+        background: radial-gradient(circle at 30% 30%, #1a1, #030);
+        opacity: 0.4;
+        box-shadow: inset -2px -2px 6px rgba(0,0,0,0.7);
+    }
+
+.legenda[b-3g7qmsw0i9] {
+    font-size: 0.9em;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
