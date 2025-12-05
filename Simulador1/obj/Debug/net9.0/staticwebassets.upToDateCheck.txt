@@ -44,22 +44,22 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\app.css
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\app.css
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map

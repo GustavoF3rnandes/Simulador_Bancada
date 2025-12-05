@@ -1,6 +1,6 @@
 ﻿using System.Text;
 using System.Timers;
-using Microsoft.Extensions.DependencyInjection; 
+using Microsoft.Extensions.DependencyInjection;
 
 namespace Simulador1.Client.Services
 {
@@ -1071,10 +1071,20 @@ namespace Simulador1.Client.Services
             }
             else if (CurrentScreen == Screen.ConfirmarReiniciarCentral)
             {
-                CurrentScreen = Screen.SenhaNivel2;
-                DisplaySenhaNivel2Screen();
-                NotifyStateChanged();
-                return;
+                if (AlarmesCount > 0)
+                {
+                    CurrentScreen = Screen.AlarmeGeralDisplay;
+                    UpdateDisplayForCurrentScreen();
+                    NotifyStateChanged();
+                    return;
+                }
+                else
+                {
+                    CurrentScreen = Screen.MainMenu;
+                    DisplayMainMenu();
+                    NotifyStateChanged();
+                    return;
+                }
             }
             else if (CurrentScreen == Screen.AdiarSirene)
             {
@@ -1272,8 +1282,20 @@ namespace Simulador1.Client.Services
             }
             else if (CurrentScreen == Screen.ConfirmarReiniciarCentral)
             {
-                CurrentScreen = Screen.SenhaNivel2;
-                DisplaySenhaNivel2Screen();
+                if (AlarmesCount > 0)
+                {
+                    CurrentScreen = Screen.AlarmeGeralDisplay;
+                    UpdateDisplayForCurrentScreen();
+                    NotifyStateChanged();
+                    return;
+                }
+                else
+                {
+                    CurrentScreen = Screen.MainMenu;
+                    DisplayMainMenu();
+                    NotifyStateChanged();
+                    return;
+                }
             }
             else if (CurrentScreen == Screen.GravarLerDispositivo && _contextualButtonTexts[1].StartsWith("Apaga"))
             {
@@ -1428,6 +1450,7 @@ namespace Simulador1.Client.Services
 
         private void StartReiniciarCentralProcess()
         {
+            _reiniciarCentralTimer?.Dispose();
             _bancadaState.DesativarSirene();
             CurrentScreen = Screen.ReiniciandoCentral;
             IsReiniciandoCentral = true;
@@ -1449,9 +1472,9 @@ namespace Simulador1.Client.Services
             _reiniciarCentralTimer = null;
 
             ResetAlarmCountersAndSirene();
+            DisplayMainMenu();
             CurrentScreen = Screen.MainMenu;
             IsReiniciandoCentral = false;
-            DisplayMainMenu();
 
             CheckExternalAlarmTriggers();
 

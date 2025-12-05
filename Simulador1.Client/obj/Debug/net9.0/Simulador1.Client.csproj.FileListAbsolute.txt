@@ -204,8 +204,6 @@ D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bi
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.3hpg3ivo9c.wasm
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.pzk7l31f2q.pdb
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Majorsoft.Blazor.Components.Common.JsInterop.h1uplru631.wasm.gz
@@ -413,8 +411,6 @@ D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bi
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.3hpg3ivo9c.wasm.gz
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.pzk7l31f2q.pdb.gz
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json.gz
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\Simulador1.Client.staticwebassets.runtime.json
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\Simulador1.Client.staticwebassets.endpoints.json
@@ -632,6 +628,7 @@ D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\ob
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\Simulador1.Client.AssemblyInfo.cs
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\Simulador1.Client.csproj.CoreCompileInputs.cache
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\Simulador1.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\Simulador1.Client.sourcelink.json
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\webcil\Majorsoft.Blazor.Components.Common.JsInterop.wasm
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\webcil\Majorsoft.Blazor.Components.CssEvents.wasm
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\webcil\Majorsoft.Blazor.Components.Core.wasm
@@ -1122,9 +1119,6 @@ D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\ob
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\wl08udpplz-tjcz0u77k5.gz
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\icyo64nq6c-tptq2av103.gz
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\sq8eh302lt-lfu7j35m59.gz
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\70ygik3r12-3hpg3ivo9c.gz
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\ygkcoa6j0a-pzk7l31f2q.gz
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\199844dc31-tjf6wjc0lq.gz
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\staticwebassets.build.json
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\staticwebassets.build.json.cache
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\staticwebassets.development.json
@@ -1135,3 +1129,10 @@ D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\ob
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\refint\Simulador1.Client.dll
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\Simulador1.Client.pdb
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\ref\Simulador1.Client.dll
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.xgs3b7z4d8.wasm
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.psi2vxx8ku.pdb
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.xgs3b7z4d8.wasm.gz
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.psi2vxx8ku.pdb.gz
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\70ygik3r12-xgs3b7z4d8.gz
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\ygkcoa6j0a-psi2vxx8ku.gz
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\199844dc31-nwqqturnkf.gz

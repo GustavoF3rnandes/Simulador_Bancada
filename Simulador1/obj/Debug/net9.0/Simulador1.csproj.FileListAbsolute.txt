@@ -58,6 +58,7 @@ D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\obj\Debug
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\obj\Debug\net9.0\Simulador1.AssemblyInfo.cs
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\obj\Debug\net9.0\Simulador1.csproj.CoreCompileInputs.cache
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\obj\Debug\net9.0\Simulador1.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\obj\Debug\net9.0\Simulador1.sourcelink.json
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\obj\Debug\net9.0\rjimswa.dswa.cache.json
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
