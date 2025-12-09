@@ -1129,10 +1129,10 @@ D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\ob
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\refint\Simulador1.Client.dll
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\Simulador1.Client.pdb
 D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\ref\Simulador1.Client.dll
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.xgs3b7z4d8.wasm
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.psi2vxx8ku.pdb
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.xgs3b7z4d8.wasm.gz
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.psi2vxx8ku.pdb.gz
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\70ygik3r12-xgs3b7z4d8.gz
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\ygkcoa6j0a-psi2vxx8ku.gz
-D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\199844dc31-nwqqturnkf.gz
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.1p3z8bvd44.wasm
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.e158r573k3.pdb
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.1p3z8bvd44.wasm.gz
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\bin\Debug\net9.0\wwwroot\_framework\Simulador1.Client.e158r573k3.pdb.gz
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\70ygik3r12-1p3z8bvd44.gz
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\ygkcoa6j0a-e158r573k3.gz
+D:\Documentos\Faculdade\9 PERIODO\TCC01\Projeto1\Simulador1\Simulador1.Client\obj\Debug\net9.0\compressed\199844dc31-1m3v6ovj6z.gz

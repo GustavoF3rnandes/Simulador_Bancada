@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Simulador1.Client",
   "resources": {
-    "hash": "sha256-3HwkPbGBf6uGTGy+zF6DHIibBU0FFo5OvbEgWdMTqIE=",
+    "hash": "sha256-8303Ft9KFAvOx5gg9E9PtP1gvn1vSBpgAwen7EyrZSQ=",
     "fingerprinting": {
       "Majorsoft.Blazor.Components.Common.JsInterop.h1uplru631.wasm": "Majorsoft.Blazor.Components.Common.JsInterop.wasm",
       "Majorsoft.Blazor.Components.CssEvents.e5purdhpk2.wasm": "Majorsoft.Blazor.Components.CssEvents.wasm",
@@ -206,8 +206,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Simulador1.Client.xgs3b7z4d8.wasm": "Simulador1.Client.wasm",
-      "Simulador1.Client.psi2vxx8ku.pdb": "Simulador1.Client.pdb"
+      "Simulador1.Client.1p3z8bvd44.wasm": "Simulador1.Client.wasm",
+      "Simulador1.Client.e158r573k3.pdb": "Simulador1.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.9ih887ebfz.js": "sha256-oS7IRiQoVt9ThQ7Y2UM3XoeY0JqPD02cg9IvRdufn2w="
@@ -422,10 +422,10 @@
       "WindowsBase.vy2l5u79y6.wasm": "sha256-ufB9Mo5joMyUs3DzXWWBFFIZNEVrt6h9N5stYB6Oln4=",
       "mscorlib.xd6mv31d55.wasm": "sha256-1YSLR2eZt3ceALFV//vZUF2AloxVil3VlrW1zZYPSEI=",
       "netstandard.kaml52uspo.wasm": "sha256-HLEwBpLfzKw2/zGSVzHzFJxznCkt/WIjahrziiMrOpA=",
-      "Simulador1.Client.xgs3b7z4d8.wasm": "sha256-4UmsjXjPKwAhlgHGa1K9i1egjQCBTbgICLTGre5VQWo="
+      "Simulador1.Client.1p3z8bvd44.wasm": "sha256-i76kguzN9HmVDinG/33MSqBvgMNen/BOXIuZevu/XPg="
     },
     "pdb": {
-      "Simulador1.Client.psi2vxx8ku.pdb": "sha256-V4EVrNthu6zUV6kRY13HxTjwnspZ8FG+Eu+W/BmOwAk="
+      "Simulador1.Client.e158r573k3.pdb": "sha256-giqjAaPUiEoat1cxTleMpidclAQWMwuplGzM8IFTtyQ="
     }
   },
   "cacheBootResources": true,

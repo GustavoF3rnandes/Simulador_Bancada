@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,10 +25,6 @@
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ControladoraState.cs",
@@ -36,14 +32,10 @@
               "RelativeDocumentMoniker": "Simulador1.Client\\Services\\ControladoraState.cs",
               "ToolTip": "D:\\Documentos\\Faculdade\\9 PERIODO\\TCC01\\Projeto1\\Simulador1\\Simulador1.Client\\Services\\ControladoraState.cs",
               "RelativeToolTip": "Simulador1.Client\\Services\\ControladoraState.cs",
-              "ViewState": "AgIAAPUEAAAAAAAAAAAAABUFAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAANsFAAAAAAAAAAAiwP0FAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T19:26:07.97Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
