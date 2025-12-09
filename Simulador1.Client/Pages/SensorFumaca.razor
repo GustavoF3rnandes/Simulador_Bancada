@@ -1,0 +1,85 @@
+﻿@namespace Simulador1.Pages
+@page "/sensorfumaca"
+@rendermode InteractiveAuto
+@using Simulador1.Client.Services
+@using Radzen.Blazor
+@inject BancadaState Bancada
+@inject ControladoraState Controladora
+@implements IDisposable
+
+
+<div class="detector-fiel-container">
+    <div class="detector-fiel">
+        <div class="base-sombra"></div>
+
+        <div class="corpo-detector">
+            <div class="led-indicador @(alarmeAtivo ? "led-ativo" : "")"></div>
+
+            <div class="area-sensor">
+                <div class="anel-rebaixado-escuro"></div>
+
+                <div class="raios-container">
+                    @for (int i = 0; i < 6; i++)
+                    {
+                        <div class="raio-ponte" style="transform: rotate(@(i * 60)deg);"></div>
+                    }
+                </div>
+
+                <div class="disco-central-branco"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="rz-text-align-center slider">
+    <RadzenSlider Value="@value" TValue="double" Step="0.1" Min="0" Max="1" ValueChanged="@OnSliderValueChanged" />
+    <span>Nivel de fumaça: @value dB/m</span>
+</div>
+
+
+@code {
+    private bool alarmeAtivo = false;
+    double value = 0;
+    private bool hasAlarmed = false;
+
+    protected override void OnInitialized()
+    {
+        Bancada.OnChange += OnBancadaStateChanged;
+        UpdateSensorState();
+    }
+
+    private void OnSliderValueChanged(double newValue)
+    {
+        value = newValue;
+        if (value >= 0.14 && Controladora.IsOn)
+        {
+            Bancada.AtivarAlarmeGeral();
+            Controladora.DisplayAlarme("Detector de Fumaça");
+            hasAlarmed = true;
+        }
+        else if (value < 0.14 && hasAlarmed)
+        {
+            hasAlarmed = false;
+        }
+        StateHasChanged();
+    }
+
+    private void OnBancadaStateChanged()
+    {
+        InvokeAsync(UpdateSensorState);
+    }
+
+    private void UpdateSensorState()
+    {
+        alarmeAtivo = Bancada.IsOn;
+        StateHasChanged();
+    }
+
+    public void Dispose()
+    {
+        if (Bancada != null)
+        {
+            Bancada.OnChange -= OnBancadaStateChanged;
+        }
+    }
+}
